@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msXsYdXnxXE=",
+  "dgSpecHash": "dBZq70CP/0w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

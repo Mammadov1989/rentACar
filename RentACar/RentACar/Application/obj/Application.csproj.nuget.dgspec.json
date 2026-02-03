@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Application\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -79,17 +80,18 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\narchitectureDemo\\src\\rentACar\\RentACar\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\rentACar\\RentACar\\RentACar\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
