@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4",
           "Persistence": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2",
-          "Core.Application": "1.0.0.0"
+          "Core.Application": "1.0.0.0",
+          "Core.Persistence": "1.0.0.0"
         },
         "runtime": {
           "WebApi.dll": {}

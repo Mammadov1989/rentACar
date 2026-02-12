@@ -67,5 +67,68 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.BrandsController",
+    "Method": "Delete",
+    "RelativePath": "api/Brands/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.ModelsController",
+    "Method": "GetList",
+    "RelativePath": "api/Models",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.ModelsController",
+    "Method": "GetListByDynamic",
+    "RelativePath": "api/Models/GetList/ByDynamic",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageIndex",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dynamicQuery",
+        "Type": "Core.Persistence.Dynamic.DynamicQuery",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
