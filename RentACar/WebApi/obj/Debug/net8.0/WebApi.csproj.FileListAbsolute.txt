@@ -325,3 +325,8 @@ C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\obj\Debug\net8.0\refin
 C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\user\OneDrive\Documents\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
